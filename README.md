@@ -123,7 +123,7 @@ O protótipo alcançou os resultados esperados quanto à proteção do cadeirant
 
 ## 📚 Referências
 
-O artigo completo, com todas as referências bibliográficas utilizadas, está disponível neste repositório em [`Tcc_LuizOtavio_ADS.pdf`](./Tcc_LuizOtavio_ADS (1)).
+O artigo completo, com todas as referências bibliográficas utilizadas, está disponível neste repositório.
 
 ---
 
